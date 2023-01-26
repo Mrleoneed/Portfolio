@@ -1,0 +1,13 @@
+.nav {
+    border: 1px solid darkgray;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px
+
+}
+
+.nav a {
+    text-decoration: none;
+}
